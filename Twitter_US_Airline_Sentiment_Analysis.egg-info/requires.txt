@@ -10,4 +10,3 @@ textblob
 transformers
 tqdm
 jupyter
--e .
