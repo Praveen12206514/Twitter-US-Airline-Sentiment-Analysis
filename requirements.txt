@@ -3,7 +3,10 @@ pandas
 matplotlib
 seaborn
 scikit-learn
+catboost
 xgboost
+dill
+Flask
 lightgbm
 nltk
 textblob
